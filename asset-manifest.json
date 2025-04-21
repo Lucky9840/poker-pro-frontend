@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poker-pro-frontend/static/css/main.788e2659.css",
+    "main.js": "/poker-pro-frontend/static/js/main.3eee9078.js",
+    "index.html": "/poker-pro-frontend/index.html",
+    "main.788e2659.css.map": "/poker-pro-frontend/static/css/main.788e2659.css.map",
+    "main.3eee9078.js.map": "/poker-pro-frontend/static/js/main.3eee9078.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.788e2659.css",
+    "static/js/main.3eee9078.js"
+  ]
+}
